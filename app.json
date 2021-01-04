@@ -1,0 +1,12 @@
+{
+  "name": "react-native-mlkit-adapter",
+  "displayName": "react-native-mlkit-adapter",
+  "expo": {
+    "name": "react-native-mlkit-adapter",
+    "slug": "react-native-mlkit-adapter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
